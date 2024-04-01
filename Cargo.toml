@@ -1,5 +1,5 @@
 [package]
-name = "rs-v2ray-pac-watcher-server"
+name = "rs-v2rayu-pac-watcher-server"
 version = "0.1.0"
 edition = "2021"
 
